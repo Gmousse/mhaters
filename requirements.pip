@@ -1,0 +1,5 @@
+autopep8==1.2.1
+flake8==2.5.1
+Flask==0.10.1
+pep8==1.5.7
+flask-cors
