@@ -17,8 +17,7 @@ M(h)ate(r)s is responsive, and compatible with FireFox and Chrome.
 
 
 #### Demo
-A demo is available here :
-
+A demo is available here : >>[HERE](http://93.15.96.71:5000/)<<
 
 #### Installation
 ##### Prerequisites
@@ -36,7 +35,7 @@ You need to have on your computer :
 
 Usage for development : ```npm run dev``` and see the result on localhost:5000
 
-Usage for producton : 
+Usage for producton : Launch ```npm run prod``` to compile the bundle.js. Then change localhost in front/action.js by your server ip. Then, launch in daemon ```npm run server```.
 
 #### Application structure
 ```bash 
