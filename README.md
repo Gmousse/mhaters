@@ -33,7 +33,7 @@ You need to have on your computer :
 - python 3
 
 ##### Install
-- Clone the repo :
+- Clone the repo : ```https://github.com/Gmousse/mhaters.git```
 - Install node dependencies : ```npm install```
 - Install pip requirements : ```pip3 install -r requirements.pip```
 - Enter a valid riot api key : ```export RIOT_API_KEY=your_api_key```
