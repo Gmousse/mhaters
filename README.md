@@ -1,5 +1,10 @@
 M(h)ate(r)s
 ===========
+Realized for the [Riot API Challenge 2016](https://developer.riotgames.com/discussion/announcements/show/eoq3tZd1)
+===========
+
+
+![A screenshot of your package](https://raw.githubusercontent.com/Gmousse/mhaters/master/screenshots/anim.gif)
 
 ### What is M(h)ate(r)s ?
 
@@ -38,7 +43,7 @@ Usage for development : ```npm run dev``` and see the result on localhost:5000
 Usage for producton : Launch ```npm run prod``` to compile the bundle.js. Then change localhost in front/action.js by your server ip. Then, launch in daemon ```npm run server```.
 
 #### Application structure
-```bash 
+```bash
 .
 ├── back
 │   └── api.py
