@@ -20,10 +20,6 @@ M(h)ate(r)s is responsive, and compatible with FireFox and Chrome.
 - Then enter summoner name of a friend,
 - Finally, click the Search button to launch mastery comparison for champions played by you and your friend.
 
-
-#### Demo
-A demo is available here : >>[HERE](http://93.15.96.71:5000/)<<
-
 #### Installation
 ##### Prerequisites
 You need to have on your computer :
