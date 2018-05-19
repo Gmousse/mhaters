@@ -1,4 +1,7 @@
 M(h)ate(r)s
+
+ [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 ===========
 Realized for the [Riot API Challenge 2016](https://developer.riotgames.com/discussion/announcements/show/eoq3tZd1)
 ===========
